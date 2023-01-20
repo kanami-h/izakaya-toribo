@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kanamitomato/toribo/issues"
+    "url": "https://github.com/kanami-h/izakaya-toribo/blob/main/issues"
   },
-  "homepage": "https://github.com/kanamitomato/toribo#readme",
+  "homepage": "https://github.com/kanami-h/izakaya-toribo/blob/main/README.md",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
